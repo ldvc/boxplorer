@@ -8,4 +8,4 @@ auth = dict(
     user = getpass.getuser(),
     password = getpass.getpass(),
 )
-dest_dir = '/tmp'
+dest_dir = '/tmp/'
